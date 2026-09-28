@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there I'm Berra 👋
+## I'm currently a freshman at Bilkent 
 
 <!--
 **berrayildirim7/berrayildirim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
